@@ -1,0 +1,28 @@
+#!/bin/python
+
+apiuri= "https://ajith-qr-code-generator-with-logo.p.mashape.com/getQrcode?"
+logouri1 = "logo=https%3A%2F%2Fyourcdn.com%2Ffoto%2F"
+logoext = ".png"
+url1 = "&type=url&value=https%3A%2F%2Fyoursingappurl.com%2F"
+
+
+mashapekey = "your mashape api ker"
+keyuri = "URIadditionforURL"
+tokenuri = "URIaddiotionfortoken"
+
+
+key = "yourencodekey"
+iv = "youriv"
+
+email = "gmail email"
+password = "password email"
+
+subject = "your subject"
+msg = """
+YOur email message
+=====================
+
+
+"""
+
+
